@@ -1,0 +1,23 @@
+{
+  "name": "frontend-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "cypress": "^3.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FumieSvenhard/automation-fumiesvenhard1.git"
+  },
+  "author": "Fumie Svenhard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FumieSvenhard/automation-fumiesvenhard1/issues"
+  },
+  "homepage": "https://github.com/FumieSvenhard/automation-fumiesvenhard1#readme"
+}
